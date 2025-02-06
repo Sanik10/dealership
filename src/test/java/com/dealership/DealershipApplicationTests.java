@@ -1,4 +1,4 @@
-package com.dealership.demo;
+package com.dealership;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
